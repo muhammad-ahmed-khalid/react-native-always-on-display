@@ -1,6 +1,6 @@
 {
   "name": "react-native-always-on-display",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This NPM gives you always on display on Android IOS both platforms",
   "main": "index.js",
   "scripts": {
